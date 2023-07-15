@@ -10,6 +10,8 @@
 
 <del>○ 另外还可以找到一些黑历史（Bushi）</del>
 
+<HR>
+
 ##### **EP105 - iOS设备通用，利用UTM虚拟机，给iPhone、iPad安装Windows**
 
 ● AltStore（官网）：https://altstore.io
