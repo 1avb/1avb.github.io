@@ -10,6 +10,20 @@
 
 <HR>
 
+##### **EP110 - 死去的回忆涌上心头，使用EKA2L1模拟器，在安卓系统上模拟运行诺基亚塞班Symbian游戏**
+
+● EKA2L1（夸克）：https://pan.quark.cn/s/95cce71dce6c （提取码：n4TG）
+
+● EKA2L1（Github）：https://github.com/EKA2L1/EKA2L1/releases
+
+● 诺基亚手机固件（夸克）：https://pan.quark.cn/s/a7b121647c6c （提取码：Wk6M）
+
+● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.quark.cn/s/4d604389c3d0 （提取码：TnyQ）
+
+● 诺基亚塞班平台游戏（夸克）：https://pan.quark.cn/s/fe9502794b8f （提取码：n8f4）
+
+<HR>
+
 ##### **EP109 - 第三方ROM更香？给小米平板2刷入LineageOS、RROS、RemixOS，支持双系统**
 
 小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（夸克）：https://pan.quark.cn/s/9d8ea291430a
